@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "surname": "QA",
+    "email": "test.qa@kaira.com",
+    "date": "2024-10-12",
+    "language": "Español",
+    "howDidYouHear": 1,
+    "IArating": 5,
+    "digitalizationRating": 4,
+    "developmentRating": 3
+}
